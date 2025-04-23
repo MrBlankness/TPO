@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Data Preparation
 
 - Step 1: Download data from the official [Step-DPO](https://github.com/dvlab-research/Step-DPO) library
-- Step 2: Step 2: Use GPT-4 to generate tree data and score each response
+- Step 2: Use GPT-4 to generate tree data and score each response
 ```sh
 python data_prepare.py
 ```
