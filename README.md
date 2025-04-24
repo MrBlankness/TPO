@@ -10,7 +10,7 @@ This is the official code for paper: **TPO: Aligning Large Language Models with 
 
 ## Environment
 
-- 8 X A100(80G)
+- 1+ A100(80G)
 
 ## Install Environment
 
